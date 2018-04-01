@@ -1,7 +1,8 @@
 # WuZiQiGame
 https://github.com/laiyuchenrushuang/PhotoResource/blob/master/wuziqiJieTu.png
 
- *onSaveInstanceState and onRestoreInstanceState的储存数据的使用
+
+ * onSaveInstanceState and onRestoreInstanceState的储存数据的使用
  * bitmap's createScaledBitmap use
  * canvas's drawBitmap的准确定位
  * 五指棋结束游戏的规则，遍历计数
