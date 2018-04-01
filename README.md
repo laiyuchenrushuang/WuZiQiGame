@@ -1,6 +1,6 @@
 # WuZiQiGame
 https://github.com/laiyuchenrushuang/PhotoResource/blob/master/wuziqiJieTu.png
-/**
+
  *onSaveInstanceState and onRestoreInstanceState的储存数据的使用
  * bitmap's createScaledBitmap use
  * canvas's drawBitmap的准确定位
@@ -13,5 +13,4 @@ https://github.com/laiyuchenrushuang/PhotoResource/blob/master/wuziqiJieTu.png
  * menu的使用
  * 重玩机制和悔棋机制
  * 音频的加载SoundPool的使用 wav文件raw下
- * Created by Administrator on 2018/3/31.
- */
+
