@@ -1,4 +1,4 @@
-# WuZiQiGame
+# 五子棋游戏
 https://github.com/laiyuchenrushuang/PhotoResource/blob/master/wuziqiJieTu.png
 
 
